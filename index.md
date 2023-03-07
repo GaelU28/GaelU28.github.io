@@ -8,7 +8,7 @@ Estudio en cetis 32 jose vasconcelo y voy en sexto semestre
 
 Estudie en la sec 264 Miguel servet donde mi taller fue diseño grafico y sali con 8.7
 Estudie la primaria en la Año internacional del niño y mi promedio fue de 9.0  
-ＰΛＳΛＴＩΞＭＰＯＳ 
+𝙋𝘼𝙎𝘼𝙏𝙄𝙀𝙈𝙋𝙊𝙎 
 
 Mi pasatiempo favorito es el jugar basquetball y entrenarlo,tambien me gusta jugar videojuegos y escuchar musica mientras hago ejerccio  
 
