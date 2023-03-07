@@ -4,10 +4,9 @@ layout: default
 
 Gael Urbina
 
-[Link to another page](./another-page.html).
+Estudio en cetis 32 jose vasconcelo y voy en sexto semestre 
 
-There should be whitespace between paragraphs.
-
+Estudie en la sec 264 Miguel servet donde mi taller fue diseño grafico y sali con 8.7
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
