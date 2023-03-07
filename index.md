@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Gael Urbina
 
 [Link to another page](./another-page.html).
 
