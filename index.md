@@ -7,8 +7,7 @@ Gael Urbina
 Estudio en cetis 32 jose vasconcelo y voy en sexto semestre 
 
 Estudie en la sec 264 Miguel servet donde mi taller fue diseño grafico y sali con 8.7
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
+Estudie la primaria en la Año internacional del niño y mi promedio fue de 9.0  
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
