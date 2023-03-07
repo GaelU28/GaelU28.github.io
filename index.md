@@ -8,9 +8,9 @@ Estudio en cetis 32 jose vasconcelo y voy en sexto semestre
 
 Estudie en la sec 264 Miguel servet donde mi taller fue diseño grafico y sali con 8.7
 Estudie la primaria en la Año internacional del niño y mi promedio fue de 9.0  
-# Header 1
+MIS PASATIEPOS
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Mi pasatiempo favorito es el jugar basquetball y entrenarlo,tambien me gusta jugar videojuegos y escuchar musica mientras hago ejerccio  
 
 ## Header 2
 
