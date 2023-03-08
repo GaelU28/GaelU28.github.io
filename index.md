@@ -28,9 +28,9 @@ Mi mas grande meta es convertirme en un buen nutriologo del deporte y ayudar a m
 
 
 
-‘’𝐅𝐀𝐌𝐈𝐋𝐈𝐀‘’
+𝐅𝐀𝐌𝐈𝐋𝐈𝐀
 
-‘’Vivo con papa mama hermana y cuñado Mi papa Alberto Rodriguez Gonzalez administrador,Mama Catalina Urbina Corales Administradora,Hermana Laura lizeth Rodriguez Urbina Emprendedora,Cuñado Gibran Rodriguez Garduño barbero‘’
+
 ##### Header 5
 
 1.  This is an ordered list following a header.
