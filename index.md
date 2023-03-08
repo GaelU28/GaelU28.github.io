@@ -46,12 +46,11 @@ Cuando tenia la edad de 3 años estaba en mi andadera y con un traje por que ese
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 Tengo un perrito chihuahua su nombre es Maiky y tiene 4 años es cafe con blanco
 
-### Large image
 
 ![Branching](https://github.com/vaibhavvikas/vaibhavvikas/raw/main/src/header_.png)
 
 
-### Definition lists can be used with HTML syntax.
+DESCRIPCION
 
 <dl>
 <dt>Nombre</dt>
