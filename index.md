@@ -40,10 +40,11 @@ Cuñado Gabriel Gibran Rodriguez Garduño
 Cuando tenia la edad de 3 años estaba en mi andadera y con un traje por que ese dia era mi bautizo todos estaban preparados para ir a misa y me descuidaron,yo fui directo hacia la puerta que tenia un escalon y me cai y me raspe toda la cara y mi bautizo lo hice con la cara raspada
 
 
-#
-### Small image
+
+𝙈𝘼𝙎𝘾𝙊𝙏𝘼
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+Tengo un perrito chihuahua su nombre es Maiky y tiene 4 años es cafe con blanco
 
 ### Large image
 
@@ -53,14 +54,13 @@ Cuando tenia la edad de 3 años estaba en mi andadera y con un traje por que ese
 ### Definition lists can be used with HTML syntax.
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>Nombre</dt>
+<dd>Rodriguez Urbina Brandon Gael</dd>
+<dt>Nacimiento</dt>
+<dd>28-10-05</dd>
+<dt>Lugar de nacimiento</dt>
+<dd>CDMX</dd>
+
 </dl>
 
 ```
