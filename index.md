@@ -30,7 +30,10 @@ Mi mas grande meta es convertirme en un buen nutriologo del deporte y ayudar a m
 𝙁𝘼𝙈𝙄𝙇𝙄𝘼
 
 Vivo con Mama,Papa,Hermana y cuñado
-
+Mama Catalina Urbina Corales 
+Papa Alberto Rodriguez Gonzales
+Hermana Laura Lizeth Rodriguez Urbina 
+Cuñado Gabriel Gibran Rodriguez Garduño
 ###### Header 6
 
 | head1        | head two          | three |
