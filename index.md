@@ -16,7 +16,7 @@ Mi pasatiempo favorito es el jugar basquetball y entrenarlo,tambien me gusta jug
 
 > Sali en el cuadro de honor en la secundaria,Gane 3 finales jugando futbol,Dos medallas jugando basquetball,2 trofeos jugando futbopl,Jugue en el estadio azteca.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> 
 
 ### Header 3
 
