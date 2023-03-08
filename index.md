@@ -22,7 +22,7 @@ Mi pasatiempo favorito es el jugar basquetball y entrenarlo,tambien me gusta jug
 
 Mi mas grande meta es convertirme en un buen nutriologo del deporte y ayudar a muchos jovenes a poder tener el cuerpo de sus sueños,de igual manera comprar una casa a mis padres,poder pertenecer a un equipo de basquetball profecional,quedar en una univercidad buena
 
-
+𝙁𝘼𝙈𝙄𝙇𝙄𝘼
 
 
 
