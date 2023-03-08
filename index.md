@@ -34,49 +34,13 @@ Mama Catalina Urbina Corales
 Papa Alberto Rodriguez Gonzales
 Hermana Laura Lizeth Rodriguez Urbina 
 Cuñado Gabriel Gibran Rodriguez Garduño
-###### Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+𝘼𝙉𝙀𝘾𝘿𝙊𝙏𝘼
 
-### There's a horizontal rule below this.
+Cuando tenia la edad de 3 años estaba en mi andadera y con un traje por que ese dia era mi bautizo todos estaban preparados para ir a misa y me descuidaron,yo fui directo hacia la puerta que tenia un escalon y me cai y me raspe toda la cara y mi bautizo lo hice con la cara raspada
 
-* * *
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
+#
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
