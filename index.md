@@ -4,7 +4,7 @@ layout: default
 
 Gael Urbina
 
-Estudio en cetis 32 jose vasconcelo y voy en sexto semestre 
+Mi nombre es Brandon Gael Rodriguez Urbina tengo 17 años ,Estudio en cetis 32 jose vasconcelo y voy en sexto semestre 
 
 Estudie en la sec 264 Miguel servet donde mi taller fue diseño grafico y sali con 8.7
 Estudie la primaria en la Año internacional del niño y mi promedio fue de 9.0  
