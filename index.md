@@ -12,19 +12,16 @@ Estudie la primaria en la Año internacional del niño y mi promedio fue de 9.0
 
 Mi pasatiempo favorito es el jugar basquetball y entrenarlo,tambien me gusta jugar videojuegos y escuchar musica mientras hago ejerccio  
 
-𝙇𝙊𝙂𝙍𝙊𝙎
+𝐋𝐎𝐆𝐑𝐎𝐒
 
 > Sali en el cuadro de honor en la secundaria,Gane 3 finales jugando futbol,Dos medallas jugando basquetball,2 trofeos jugando futbopl,Jugue en el estadio azteca.
 >
 > 
 
-### Header 3
+𝐌𝐈𝐒 𝐌𝐄𝐓𝐀𝐒
+Mi mas grande meta es convertirme en un buen nutriologo del deporte y ayudar a muchos jovenes a poder tener el cuerpo de sus sueños,de igual manera comprar una casa a mis padres 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
+
 }
 ```
 
