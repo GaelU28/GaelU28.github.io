@@ -19,18 +19,14 @@ Mi pasatiempo favorito es el jugar basquetball y entrenarlo,tambien me gusta jug
 > 
 
 𝐌𝐈𝐒 𝐌𝐄𝐓𝐀𝐒
-Mi mas grande meta es convertirme en un buen nutriologo del deporte y ayudar a muchos jovenes a poder tener el cuerpo de sus sueños,de igual manera comprar una casa a mis padres 
+
+Mi mas grande meta es convertirme en un buen nutriologo del deporte y ayudar a muchos jovenes a poder tener el cuerpo de sus sueños,de igual manera comprar una casa a mis padres,poder pertenecer a un equipo de basquetball profecional,quedar en una univercidad buena
 
 
-}
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+
+
+
 
 #### Header 4
 
