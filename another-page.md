@@ -2,9 +2,9 @@
 layout: post
 ---
 
-## Welcome to another page
+BIENVENIDO A BIOGRAFIA DE GAEL URBINA
 
-_yay_
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+GRACIAS POR VER 
+
 
 [back](./)
